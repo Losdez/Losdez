@@ -1,6 +1,6 @@
 ### Hi I'm Carlos 👋
 ***
-I'm an administrative assistant @amazon and part-time designer working to optimize myself out of a job and transition into an analyst or developer role. Check back soon for more!
+I'm an administrative assistant and part-time designer working to optimize myself out of a job and transition into an analyst or developer role. Check back soon for more!
 
 I'm currently learning: **Javascript** and **SQL**
 
